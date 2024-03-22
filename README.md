@@ -94,8 +94,10 @@
 
 ###
 
-<br clear="both">
-
+<div align="center">
+  <h3>🐍 My Contributions 🐍</h3>
+</div>
+<hr>
 <img src="https://raw.githubusercontent.com/RohanE2/RohanE2/output/snake.svg" alt="Snake animation" />
 
 ###
