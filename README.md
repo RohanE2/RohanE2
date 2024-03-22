@@ -5,6 +5,7 @@
 <p align="left">👀 I’m interested in developing robust and scalable web applications using Java technologies.<br>🌱 I’m currently learning advanced concepts in Java and exploring new frameworks.<br>💞️ I’m looking to collaborate on open-source projects related to web development.<br>🌱 Experienced in front-end development with HTML, CSS, and JavaScript frameworks like React.<br>⚡ Skilled in back-end development with Java frameworks such as Spring Boot and Hibernate.<br> 💻 Proficient in database management systems like MySQL.<br> 🚀 Some of my main projects: <br> [![springmvc-ecommerce-razorpay-google-auth](https://github-readme-stats.vercel.app/api/pin/?username=RohanE2&repo=springmvc-ecommerce-razorpay-google-auth)](https://github.com/RohanE2/springmvc-ecommerce-razorpay-google-auth)
  <br>📫 How to reach me: You can reach me via email at <a href="mailto:rohanitu@gmail.com">rohanitu@gmail.com</a>.<br>🌐 LinkedIn: <a href="https://www.linkedin.com/in/rohan-itankar-sde/">Rohan Itankar</a><br>⚡ Fun fact: I enjoy solving coding challenges and exploring different cuisines.</p>
 
+
 ###
 
 <div align="center">
