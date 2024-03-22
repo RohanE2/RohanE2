@@ -15,9 +15,9 @@
 💻 Proficient in database management systems like MySQL.
 <br>
 🚀 Some of my main projects:
-<br>
+<br><br>
 [![springmvc-ecommerce-razorpay-google-auth](https://github-readme-stats.vercel.app/api/pin/?username=RohanE2&repo=springmvc-ecommerce-razorpay-google-auth)](https://github.com/RohanE2/springmvc-ecommerce-razorpay-google-auth)
-<br>
+<br><br>
 📫 How to reach me: You can reach me via email at [rohanitu@gmail.com](mailto:rohanitu@gmail.com).
 <br>
 🌐 LinkedIn: [Rohan Itankar](https://www.linkedin.com/in/rohan-itankar-sde/)
@@ -27,14 +27,14 @@
 
 
 ###
-
+##
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RohanE2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanE2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+## ⚡ Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -72,7 +72,7 @@
 </div>
 
 ###
-
+## Follow Me
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.instagram.com/rohan_e2?igsh=MWppd3FmdWgwMGZtMA==" target="_blank">
@@ -99,16 +99,20 @@
 <img src="https://raw.githubusercontent.com/RohanE2/RohanE2/output/snake.svg" alt="Snake animation" />
 
 ###
-
+##
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RohanE2&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=RohanE2&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
-
+##
 <div align="center">
   <img src="https://profile-counter.glitch.me/RohanE2/count.svg?"  />
 </div>
 
 ###
+##
+<div align="center">
+  <h3>💻 Check Out My Repos ⬇️</h3>
+</div>
